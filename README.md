@@ -1,3 +1,3 @@
-#This is a repo for the Javascript exercies on Exercism.
+###This is a repo for the Javascript exercies on Exercism.
 
-##Find this approach of learning languages highly interesting.
+Doing some excercies when i feel like it.
